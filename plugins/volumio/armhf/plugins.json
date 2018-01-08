@@ -250,6 +250,32 @@
 					"updated": "18-11-2017"
 				}
 			]
+		},
+		{
+			"prettyName": "audio interface",
+			"name": "audio_interface",
+			"id": "cat5",
+			"description": "",
+			"plugins": [
+				{
+					"prettyName": "ssrpari_bluetooth",
+					"icon": "fa-lightbulb-o",
+					"name": "ssrpari_bluetooth",
+					"version": "1.0.0",
+					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/audio_interface/ssrpari_bluetooth/ssrpari_bluetooth.zip",
+					"license": "ISC",
+					"description": "automated bt streaming",
+					"details": "bt automation",
+					"author": "bareinhard",
+					"screenshots": [
+						{
+							"image": "",
+							"thumb": ""
+						}
+					],
+					"updated": "8-1-2018"
+				}
+			]
 		}
 	]
 }
