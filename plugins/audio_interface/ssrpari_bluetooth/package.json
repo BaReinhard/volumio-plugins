@@ -1,0 +1,21 @@
+{
+	"name": "ssrpari_bluetooth",
+	"version": "1.0.0",
+	"description": "automated bt streaming",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "bareinhard",
+	"license": "ISC",
+	"volumio_info": {
+		"prettyName": "ssrpari_bluetooth",
+		"icon": "fa-lightbulb-o",
+		"plugin_type": "audio_interface"
+	},
+	"dependencies": {
+		"fs-extra": "^0.28.0",
+		"kew": "^0.7.0",
+		"v-conf": "^1.4.0"
+	}
+}
